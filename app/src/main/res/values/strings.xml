@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FoodyFresh</string>
+    <string name="salads">Salads</string>
+    <string name="appetizers">Appetizers</string>
+    <string name="soups">Soups</string>
+    <string name="main_dishes">Main Dishes</string>
+    <string name="desserts">Desserts</string>
+    <string name="others">Others</string>
 </resources>

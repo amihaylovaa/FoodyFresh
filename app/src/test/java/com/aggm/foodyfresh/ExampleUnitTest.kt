@@ -1,4 +1,4 @@
-package com.aggm.myapplication
+package com.aggm.foodyfresh
 
 import org.junit.Test
 
