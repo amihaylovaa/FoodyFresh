@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.aggm.foodyfresh.activity.SaladActivity"></activity>
+        <activity android:name="com.aggm.foodyfresh.activity.AppetizerActivity"></activity>
+        <activity android:name="com.aggm.foodyfresh.activity.SoupActivity"></activity>
+        <activity android:name="com.aggm.foodyfresh.activity.MainDishActivity"></activity>
+        <activity android:name="com.aggm.foodyfresh.activity.DessertActivity"></activity>
+        <activity android:name="com.aggm.foodyfresh.activity.OtherActivity"></activity>
     </application>
 
 </manifest>
