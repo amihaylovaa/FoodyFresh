@@ -22,3 +22,5 @@ o
 ?app/src/main/java/com/aggm/foodyfresh/activity/SaladActivity.kt,c\6\c6726efbe9451010f3b72f08ce60bdc9fc678fb1
 n
 >app/src/main/java/com/aggm/foodyfresh/activity/SoupActivity.kt,1\1\112935cf34e5465178225ac4a181e704d6fc52ae
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
