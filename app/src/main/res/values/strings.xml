@@ -6,4 +6,5 @@
     <string name="main_dishes">Main Dishes</string>
     <string name="desserts">Desserts</string>
     <string name="others">Others</string>
+    <string name="new_item">Add new</string>
 </resources>
