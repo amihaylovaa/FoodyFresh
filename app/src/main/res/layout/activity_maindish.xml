@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:layout_width="wrap_content"
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="25dp"
-        android:background="@drawable/main_dishes_gradient"
-        android:paddingLeft="45dp"
-        android:paddingRight="45dp"
-        android:text="@string/new_item"
-        android:textColor="@color/white"
-        >
-    </androidx.appcompat.widget.AppCompatButton>
-</RelativeLayout>
+        android:background="@drawable/gradient">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/main_dishes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/main_dishes"></com.google.android.material.tabs.TabItem>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/new_main_dish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/new_item"></com.google.android.material.tabs.TabItem>
+    </com.google.android.material.tabs.TabLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

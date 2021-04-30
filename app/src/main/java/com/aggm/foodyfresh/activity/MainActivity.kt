@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         val dessertCV = findViewById<CardView>(R.id.desserts)
         val otherCV = findViewById<CardView>(R.id.others)
 
-
         saladCV.setOnClickListener(this)
         appetizerCV.setOnClickListener(this)
         soupCV.setOnClickListener(this)
@@ -69,6 +68,4 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             }
         }
     }
-
-
 }
