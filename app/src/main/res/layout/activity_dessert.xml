@@ -4,6 +4,7 @@
     android:layout_height="match_parent">
 
     <com.google.android.material.tabs.TabLayout
+        android:id="@+id/dessert_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/gradient">
@@ -20,4 +21,9 @@
             android:layout_height="wrap_content"
             android:text="@string/new_item"></com.google.android.material.tabs.TabItem>
     </com.google.android.material.tabs.TabLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/dessert_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></androidx.viewpager.widget.ViewPager>
 </androidx.appcompat.widget.LinearLayoutCompat>
