@@ -7,4 +7,6 @@
     <string name="desserts">Desserts</string>
     <string name="others">Others</string>
     <string name="new_item">Add new one</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

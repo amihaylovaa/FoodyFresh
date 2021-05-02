@@ -30,3 +30,13 @@ P
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+q
+Aapp/src/main/java/com/aggm/foodyfresh/fragment/DessertFragment.kt,1\e\1eef636c9af2e09da605ffaa722f8b9d11b28050
+o
+?app/src/main/java/com/aggm/foodyfresh/fragment/OtherFragment.kt,5\2\522024df8dcb7951bb409c9fbafbc9415e41b4d2
+s
+Capp/src/main/java/com/aggm/foodyfresh/fragment/AppetizerFragment.kt,3\7\371ba3d83f31b023ab91a4003e540e880de69153
+r
+Bapp/src/main/java/com/aggm/foodyfresh/fragment/MainDishFragment.kt,6\3\63b459975c1dfc0c130319e2e957bb8760b8a526
+o
+?app/src/main/java/com/aggm/foodyfresh/fragment/SaladFragment.kt,9\4\9459505560667ac2ed6f72865b46cd1d61f694a9
